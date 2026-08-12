@@ -34,18 +34,19 @@ Run each Python file using:
 
 ```bash
 python exercise-01-list-operations.py
-
+```
 You can also run a specific exercise from the Day 2 directory:
-
+```bash
 cd day-02
 python exercise-01-list-operations.py
-## What I Learned
+```
 
+## What I Learned
 In Day 2, I learned how to work with Python collections such as lists, tuples,
- sets, and dictionaries. I practiced adding, removing, accessing, and modifying 
- data inside collections and learned when each collection type is useful. I also
-  learned how collections can be used to organize and process data in practical
-   programming tasks.
+sets, and dictionaries. I practiced adding, removing, accessing, and modifying 
+data inside collections and learned when each collection type is useful. I also
+learned how collections can be used to organize and process data in practical
+programming tasks.
 
 ## Challenges Faced
 

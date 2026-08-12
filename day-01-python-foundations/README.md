@@ -29,15 +29,15 @@ Run each Python file using:
 
 ```bash
 python3 exercise-01-sales-summary.py
-
+```
 Other exercises can be run using:
-
+```bash
 python3 exercise-02-data-quality-checker.py
 python3 exercise-03-file-validator.py
 python3 exercise-04-customer-record-cleaner.py
 python3 exercise-05-pipeline-health.py
 python3 stretch-access-decision.py
-
+```
 ## What I Learned
 
 In Day 1, I learned the fundamentals of Python programming, including variables 

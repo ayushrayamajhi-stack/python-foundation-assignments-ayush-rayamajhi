@@ -37,15 +37,25 @@ python3 exercise-03-file-validator.py
 python3 exercise-04-customer-record-cleaner.py
 python3 exercise-05-pipeline-health.py
 python3 stretch-access-decision.py
-What I Learned
 
-In Day 1, I learned the fundamentals of Python programming, including variables, data types, arithmetic operations, string methods, user input, and type conversion. I also practiced using conditional statements, comparison and logical operators, and ternary expressions to make decisions in programs. The exercises helped me understand how these basic Python concepts can be applied to practical data-related problems.
+## What I Learned
 
-Challenges Faced
+In Day 1, I learned the fundamentals of Python programming, including variables 
+data types, arithmetic operations, string methods, user input, and type 
+conversion. I also practiced using conditional statements, comparison and 
+logical operators, and ternary expressions to make decisions in programs. The 
+exercises helped me understand how these basic Python concepts can be applied to 
+practical data-related problems.
 
-The main challenges were understanding percentage calculations, handling user input and type conversion, and writing conditions correctly. I also practiced working with uppercase and lowercase file extensions, cleaning string values, and combining multiple conditions when checking pipeline health and dataset access.
+## Challenges Faced
 
-What I Practiced
+The main challenges were understanding percentage calculations, handling user
+input and type conversion, and writing conditions correctly. I also practiced 
+working with uppercase and lowercase file extensions, cleaning string values, 
+and combining multiple conditions when checking pipeline health and dataset 
+access.
+
+## What I Practiced
 Calculating sales and discounts
 Checking data quality
 Validating file extensions
